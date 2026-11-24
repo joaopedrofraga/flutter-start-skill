@@ -1,0 +1,4 @@
+interface:
+  display_name: "Start a Flutter Project"
+  short_description: "Start a Flutter app with structure and theme ready"
+  default_prompt: "Use $flutter-start to collect my app requirements and create a Flutter project with its structure, theme, and shared widgets ready for development."
